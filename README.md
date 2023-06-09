@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **textual library**
 
-- 👨‍💻 All of my projects are available at [github.com/tonytobin](github.com/tonytobin)
+- 👨‍💻 All of my projects are available at [github.com/tonytobin](github/tonytobin)
 
 - 💬 Ask me about **python, embedded c, c++**
 
-- 📄 Know about my experiences [linkedin.com/tobintony](linkedin.com/tobintony)
+- 📄 Know about my experiences [linkedin.com/tobintony](linkedin/tobintony)
 
 - ⚡ Fun fact **I am a scorpio 😈**
 
